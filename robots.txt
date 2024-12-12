@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Zvoni004.github.io/my-portfolio/sitemap.xml

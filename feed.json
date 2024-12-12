@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Zvonis Portfolio",
+    "description": "",
+    "home_page_url": "https://Zvoni004.github.io/my-portfolio",
+    "feed_url": "https://Zvoni004.github.io/my-portfolio/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Zvonimir Ljubic"
+    },
+    "items": [
+    ]
+}
